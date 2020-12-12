@@ -1,3 +1,5 @@
+package JavaBeg;
+
 class QuickStart {
     /*
      * Azraf Al Monzim
