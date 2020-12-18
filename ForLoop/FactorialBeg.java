@@ -7,7 +7,7 @@ public class FactorialBeg {
         Scanner input = new Scanner(System.in);
 
         int numb, fact = 1;
-      
+
         System.out.print("Enter any positive number: ");
         numb = input.nextInt();
 
