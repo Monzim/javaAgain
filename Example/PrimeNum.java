@@ -23,11 +23,11 @@ public class PrimeNum {
                 break;
             }
         }
-
         if (store == 0) {
-            System.out.println("Its a Prime Number");
+            System.out.println("Prime Number");
         } else {
             System.out.println("Not a Prime Number");
+
         }
 
     }

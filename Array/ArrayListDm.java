@@ -1,7 +1,6 @@
 package Array;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 public class ArrayListDm {
     public static void main(String[] args) {
