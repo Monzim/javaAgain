@@ -6,7 +6,7 @@ public class ArmstrongNumberMe {
 
     public static void main(String[] args) {
         /*
-         * Armstrong number that kind of number thats individual digit cube Sums equals
+         * Armstrong number that kin d of number thats individual digit cube Sums equals
          * // to the dumber 153 = 1^3 + 5^3 + 3^3 = 153
          * 
          * 0, 1, 153, 370, 371 and 407 are the Armstrong numbers
