@@ -17,13 +17,13 @@ public class Student {
     }
 
     // parameterized constructor
-    // Student(String n, String g, int num, int ro, int ag) {
-    // name = n;
-    // gender = g;
-    // number = num;
-    // roll = ro;
-    // age = ag;
-    // }
+    Student(String n, String g, int num, int ro, int ag) {
+        name = n;
+        gender = g;
+        number = num;
+        roll = ro;
+        age = ag;
+    }
 
     // displayinformation method
     void displayInformation() {
