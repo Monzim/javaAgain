@@ -5,6 +5,15 @@ public class Student {
     String name, gender;
     int number, roll, age;
 
+    void setInformation(String n, String g, int num, int ro, int ag) {
+
+        name = n;
+        gender = g;
+        number = num;
+        roll = ro;
+        age = ag;
+    }
+
     void displayInformation() {
         System.out.println("Name: " + name);
         System.out.println("Gender: " + gender);

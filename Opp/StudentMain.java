@@ -6,21 +6,11 @@ public class StudentMain {
 
         Student student1 = new Student();
 
-        student1.name = " Azraf al Monzim";
-        student1.gender = "male";
-        student1.age = 18;
-        student1.number = 1236548;
-        student1.roll = 1692;
+        student1.setInformation("Azraf al Monzim", "male", 1236548, 1692, 18);
         student1.displayInformation();
 
         Student student2 = new Student();
-
-        student2.name = " Monirul Islam Shamim";
-        student2.gender = "male";
-        student2.age = 18;
-        student2.number = 56565;
-        student2.roll = 1697;
-
+        student2.setInformation("Monirul Islam Shamim", "male", 56565, 1697, 18);
         student2.displayInformation();
 
     }
