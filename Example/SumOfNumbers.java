@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class SumOfNumbers {
     public static void main(String[] args) {
         // Happy New Year 🎉🎉🎉
+        System.out.println(
+                "\n\t\t*****************************\n \t\t\tEven and Odd \n\t\t*****************************");
 
         Scanner input = new Scanner(System.in);
 
@@ -36,6 +38,6 @@ public class SumOfNumbers {
 
             }
         }
-        System.out.println("\n\nsumOfOdd: " + sumOfOdd + "\nsumOfEven: " + sumOfEven);
+        System.out.println("\n\nsumOfOdd: " + sumOfOdd + "\nsumOfEven: " + sumOfEven + "\n");
     }
 }

@@ -7,6 +7,8 @@ public class ReveringInterger {
     public static void main(String[] args) {
 
         // 12535 -> 53521 reversing numbers
+        System.out.println(
+                "\n\t\t*****************************\n \t\t\tReveringInterger \n\t\t*****************************");
 
         Scanner input = new Scanner(System.in);
 

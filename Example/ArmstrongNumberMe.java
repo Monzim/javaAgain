@@ -15,6 +15,8 @@ public class ArmstrongNumberMe {
          * 
          * 3. cube the num 4. sum the num 5. condision
          */
+        System.out.println(
+                "\n\t\t*****************************\n \t\t\tArmstrong Number \n\t\t*****************************");
 
         Scanner input = new Scanner(System.in);
 

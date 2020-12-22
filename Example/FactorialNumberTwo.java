@@ -12,6 +12,8 @@ public class FactorialNumberTwo {
         // empty product.
         // n! = n * (n -1) * ......
         // must be positive number
+        System.out.println(
+                "\n\t\t*****************************\n \t\t\tFactorialNumber \n\t\t*****************************");
 
         Scanner input = new Scanner(System.in);
         System.out.print("Input a Number: ");

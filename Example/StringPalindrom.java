@@ -8,6 +8,8 @@ public class StringPalindrom {
         // 121 reverse it 121 same
         // "Anna" reverse "Anna" same
         // "tattarrattat"
+        System.out.println(
+                "\n\t\t*****************************\n \t\t\tStringPalindrom\n\t\t*****************************");
 
         Scanner input = new Scanner(System.in);
 

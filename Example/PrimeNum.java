@@ -9,6 +9,8 @@ public class PrimeNum {
         // 10006721, 33489857205
         // two smaller natural numbers. A natural number greater than 1 that is not
         // prime is called a composite number.
+        System.out
+                .println("\t\t*****************************\n \t\t\tPrime NUmber \n\t\t*****************************");
 
         Scanner input = new Scanner(System.in);
         System.out.print("Input a Number: ");
